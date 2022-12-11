@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Inertiajs**
 
-- 👨‍💻 All of my projects are available at [github.com/Bril3d](github.com/Bril3d)
-
 - 💬 Ask me about **Vue and Laravel**
 
 - 📫 How to reach me **Khaledtbk@gmail.com**
