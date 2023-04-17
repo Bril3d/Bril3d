@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khaled Briki</h1>
 <h3 align="center">A passionate full-stack developer from Tunisia</h3>
 
-- 🔭 I’m currently working on **a E-commerce project**
+- 🔭 I’m currently working on **Zendesk App**
 
-- 🌱 I’m currently learning **Inertiajs**
+- 🌱 I’m currently learning **Spring**
 
 - 💬 Ask me about **Vue and Laravel**
 
