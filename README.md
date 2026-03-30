@@ -1,94 +1,152 @@
-<h1 align="center">Khaled Briki</h1>
-<p align="center"><b>Frontend / Full‑Stack Web Developer</b> • Tunisia • Open to opportunities</p>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=600&color=8B5CF6&center=true&vCenter=true&width=700&lines=ARISE.;I+build+modern%2C+fast%2C+accessible+web+apps.;Vue+%7C+React+%7C+Laravel+%7C+TypeScript;Clean+UI.+Solid+DX.+Production+mindset." alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <a href="mailto:khaledtbk@gmail.com"><img src="https://img.shields.io/badge/Email-khaledtbk%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/khaled-briki/"><img src="https://img.shields.io/badge/LinkedIn-Khaled%20Briki-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/khaledbrikii/"><img src="https://img.shields.io/badge/Instagram-@khaledbrikii-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
-</div>
+<!-- HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&duration=2200&pause=900&color=8B5CF6&center=true&vCenter=true&repeat=true&width=520&height=52&lines=Khaled+Briki" alt="Name" />
 
 <br/>
 
-<!-- ====== SYSTEM PANEL (Solo Leveling-inspired) ====== -->
-<table>
-  <tr>
-    <td width="52%" valign="top">
-      <h2>🧾 System Panel</h2>
-      <ul>
-        <li><b>Focus:</b> modern UI, responsive design, performance, clean architecture</li>
-        <li><b>Strengths:</b> component-driven development, API integration, pixel-perfect UI, UX details</li>
-        <li><b>Also:</b> auth flows, dashboards, forms, state management, SEO basics</li>
-        <li><b>Currently leveling:</b> TypeScript depth • Testing • Better backend patterns</li>
-      </ul>
-      
-      <h3>✅ Recruiter quick facts</h3>
-      <ul>
-        <li>Comfortable shipping features end-to-end (frontend + backend)</li>
-        <li>Strong with Tailwind + Bootstrap, design to implementation</li>
-        <li>Enjoy collaborating, reviewing PRs, and writing maintainable code</li>
-      </ul>
-    </td>
-    <td width="48%" valign="top">
-      <h2>📈 Stats</h2>
-      <div align="center">
-        <!-- Use cache-friendly params; hide_border; ensure proper encoding -->
-        <img src="https://github-readme-stats.vercel.app/api?username=Bril3d&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub stats" />
-        <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bril3d&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="150" alt="Top languages" />
-        <br/>
-        <img src="https://streak-stats.demolab.com?user=Bril3d&theme=tokyonight&hide_border=true" height="160" alt="GitHub streak" />
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-<h2>🧩 Tech Stack</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" width="44" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" width="44" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" width="44" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="34" width="44" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="34" width="44" alt="Vue" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" width="44" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="34" width="44" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="34" width="44" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="34" width="44" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="34" width="44" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" width="44" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="34" width="44" alt="Go" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" width="44" alt="Java" />
-</div>
-
----
-
-<h2>🗂️ Featured Work</h2>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1000&color=8b949e&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=84&lines=%E2%9A%94%EF%B8%8F+Solo+Leveling+inspired+developer+profile;%F0%9F%9A%80+Building+modern+frontend+%26+full-stack+web+apps;%E2%9C%A8+Vue+%7C+React+%7C+Laravel+%7C+TypeScript" alt="Tagline" />
 
 <p>
-  If you’re a recruiter/hiring manager: check my pinned repositories for real projects.
-  I’m happy to share demos, discuss tradeoffs, and walk through architecture decisions.
+  <a href="https://www.linkedin.com/in/khaled-briki/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:khaledtbk@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Bril3d"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Bril3d&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" />
 </p>
+
+</div>
 
 ---
 
-<h2>🐍 Shadow Trail</h2>
-<img src="https://raw.githubusercontent.com/Bril3d/Bril3d/output/snake.svg" alt="Snake animation" />
+## 🧾 Shadow System
 
-<br/>
+```yaml
+name: Khaled Briki
+class: Web Developer
+location: Tunisia 🇹🇳
+specialization:
+  - Frontend Development
+  - Full-Stack Web Applications
+core_stack:
+  - Vue.js
+  - React
+  - Laravel
+  - TypeScript
+build_style:
+  - Clean architecture
+  - Responsive UI
+  - Performance-first implementation
+current_quest:
+  - Leveling up advanced TypeScript patterns
+  - Building scalable frontend systems
+  - Improving backend design and maintainability
+```
+
+---
+
+## ⚔️ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌌 [Project One](https://github.com/Bril3d)
+**Modern Web Platform**
+
+Clean and responsive app architecture with reusable components, optimized UI flow, and scalable structure.
+
+`Vue` `TypeScript` `Tailwind` `API Integration`
+
+</td>
+<td width="50%">
+
+### 🔮 [Project Two](https://github.com/Bril3d)
+**Full-Stack Product Experience**
+
+Built from frontend to backend with focus on UX, maintainability, and production-ready structure.
+
+`React` `Laravel` `MySQL` `Vite`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🐉 [Project Three](https://github.com/Bril3d)
+**Interactive Dashboard System**
+
+Data-focused dashboard with clean visual hierarchy, reusable UI patterns, and smooth user interactions.
+
+`JavaScript` `Bootstrap` `REST APIs`
+
+</td>
+<td width="50%">
+
+### ⚡ [Project Four](https://github.com/Bril3d)
+**Responsive Web Experience**
+
+Mobile-first implementation with emphasis on speed, accessibility, and polished micro-interactions.
+
+`HTML` `CSS` `TypeScript`
+
+</td>
+</tr>
+</table>
+
+> Replace project titles/links with your pinned repos for best impact.
+
+---
+
+## 🛠️ Skills Arsenal
 
 <div align="center">
-  <!-- If glitch counter fails intermittently, alternative is used below -->
-  <img src="https://profile-counter.glitch.me/Bril3d/count.svg" alt="Visitor counter" />
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Tools & Platforms
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 </div>
 
-<!-- Backup visitor counter (uncomment if needed)
+---
+
+## 🐍 Shadow Trail
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bril3d&style=for-the-badge&color=8B5CF6" alt="Profile views" />
+  <img src="https://raw.githubusercontent.com/Bril3d/Bril3d/output/snake.svg" alt="Snake animation" />
 </div>
--->
+
+---
+
+<div align="center">
+
+### 💬 Gate of Contact
+
+<p>Open to collaborations and cool builds.<br/>Let’s create something legendary.</p>
+
+<a href="mailto:khaledtbk@gmail.com">
+  <img src="https://img.shields.io/badge/📧_khaledtbk@gmail.com-8B5CF6?style=for-the-badge" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ARISE-8B5CF6?style=flat-square" />
+
+</div>
