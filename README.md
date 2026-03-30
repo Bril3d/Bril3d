@@ -50,50 +50,70 @@ current_quest:
 <tr>
 <td width="50%">
 
-### 🌌 [Project One](https://github.com/Bril3d)
-**Modern Web Platform**
+### 🐍 [LeetCracker](https://github.com/Bril3d/LeetCracker)
+**LeetCode Automation Script**
 
-Clean and responsive app architecture with reusable components, optimized UI flow, and scalable structure.
+A Python-based automation script leveraging Selenium to streamline problem-solving on LeetCode.
 
-`Vue` `TypeScript` `Tailwind` `API Integration`
+`Python` `Selenium` `Automation`
 
 </td>
 <td width="50%">
 
-### 🔮 [Project Two](https://github.com/Bril3d)
-**Full-Stack Product Experience**
+### ⚡ [AS2E](https://github.com/Bril3d/AS2E)
+**Energy Efficiency Website**
 
-Built from frontend to backend with focus on UX, maintainability, and production-ready structure.
+Automation Systems and Energy Efficiency corporate or organizational website.
 
-`React` `Laravel` `MySQL` `Vite`
+`Vue` `Web Development`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🐉 [Project Three](https://github.com/Bril3d)
-**Interactive Dashboard System**
+### 📚 [Manga-sage](https://github.com/Bril3d/Manga-sage)
+**Full-Stack Manga App**
 
-Data-focused dashboard with clean visual hierarchy, reusable UI patterns, and smooth user interactions.
+A backend-driven web application tailored for manga fans, utilizing a modern tech stack.
 
-`JavaScript` `Bootstrap` `REST APIs`
+`Vue.js` `Go` `Gin-Gonic`
 
 </td>
 <td width="50%">
 
-### ⚡ [Project Four](https://github.com/Bril3d)
-**Responsive Web Experience**
+### 🌤️ [Weather_App](https://github.com/Bril3d/Weather_App)
+**Real-Time Weather Monitor**
 
-Mobile-first implementation with emphasis on speed, accessibility, and polished micro-interactions.
+An application that keeps you updated with the latest live weather conditions.
 
-`HTML` `CSS` `TypeScript`
+`Vue` `API Integration`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎨 [Art_Museum](https://github.com/Bril3d/Art_Museum)
+**Art Gallery Explorer**
+
+A responsive web application built to explore the vast collection from the Art Institute of Chicago.
+
+`Vue` `Nuxt 3`
+
+</td>
+<td width="50%">
+
+### 🌶️ [Chilis](https://github.com/Bril3d/Chilis)
+**Internship Project**
+
+Chilis project created during the 9antra internship program.
+
+`JavaScript` `Web`
 
 </td>
 </tr>
 </table>
-
-> Replace project titles/links with your pinned repos for best impact.
 
 ---
 
